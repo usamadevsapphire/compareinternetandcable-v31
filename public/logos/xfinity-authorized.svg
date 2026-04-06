@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 90">
+  <text x="4" y="60" font-family="Arial,Helvetica,sans-serif" font-weight="300" font-size="62" fill="#CC0000">xfinity</text>
+  <line x1="200" y1="10" x2="200" y2="80" stroke="#ccc" stroke-width="1.5"/>
+  <text x="212" y="38" font-family="Arial,Helvetica,sans-serif" font-weight="400" font-size="16" fill="#333">authorized</text>
+  <text x="212" y="58" font-family="Arial,Helvetica,sans-serif" font-weight="400" font-size="16" fill="#333">retailer</text>
+</svg>

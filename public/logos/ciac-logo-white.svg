@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 244 52" role="img" aria-label="Compare Internet and Cable">
+  <!-- ICON: semi-transparent bg -->
+  <rect x="0" y="0" width="52" height="52" rx="11" fill="rgba(255,255,255,0.15)"/>
+  <!-- Left signal arcs -->
+  <path d="M9 38 Q13 26 9 14" stroke="white" stroke-width="2.7" fill="none" stroke-linecap="round" opacity="0.72"/>
+  <path d="M14 36 Q18.5 26 14 16" stroke="white" stroke-width="2.7" fill="none" stroke-linecap="round" opacity="0.92"/>
+  <!-- Right signal arcs -->
+  <path d="M43 38 Q39 26 43 14" stroke="white" stroke-width="2.7" fill="none" stroke-linecap="round" opacity="0.72"/>
+  <path d="M38 36 Q33.5 26 38 16" stroke="white" stroke-width="2.7" fill="none" stroke-linecap="round" opacity="0.92"/>
+  <!-- Compare arrows -->
+  <line x1="22" y1="26" x2="30" y2="26" stroke="white" stroke-width="2.3" stroke-linecap="round"/>
+  <polyline points="27.5,22.5 30,26 27.5,29.5" stroke="white" stroke-width="2.3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="24.5,22.5 22,26 24.5,29.5" stroke="white" stroke-width="2.3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="26" cy="26" r="3" fill="white"/>
+  <!-- Top wifi arc -->
+  <path d="M19 14 Q26 9 33 14" stroke="white" stroke-width="2.3" fill="none" stroke-linecap="round" opacity="0.9"/>
+  <path d="M22 10 Q26 7 30 10" stroke="white" stroke-width="1.9" fill="none" stroke-linecap="round" opacity="0.65"/>
+
+  <!-- TEXT: all white -->
+  <text x="62" y="22"
+    font-family="'Arial Black','Arial',Helvetica,sans-serif"
+    font-weight="900"
+    font-size="17"
+    fill="white"
+    opacity="0.9"
+    letter-spacing="-0.3">Compare</text>
+  <text x="62" y="41"
+    font-family="'Arial Black','Arial',Helvetica,sans-serif"
+    font-weight="900"
+    font-size="17"
+    fill="rgba(167,139,250,1)"
+    letter-spacing="-0.3">Internet &amp; Cable</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#0ea5e9"/>
+    </linearGradient>
+  </defs>
+  <rect width="200" height="200" rx="44" fill="url(#bg2)"/>
+  <!-- Two signal arcs left -->
+  <path d="M30 140 Q45 100 30 60" stroke="white" stroke-width="8" fill="none" stroke-linecap="round" opacity="0.7"/>
+  <path d="M50 132 Q66 100 50 68" stroke="white" stroke-width="8" fill="none" stroke-linecap="round" opacity="0.85"/>
+  <!-- Two signal arcs right -->
+  <path d="M170 140 Q155 100 170 60" stroke="white" stroke-width="8" fill="none" stroke-linecap="round" opacity="0.7"/>
+  <path d="M150 132 Q134 100 150 68" stroke="white" stroke-width="8" fill="none" stroke-linecap="round" opacity="0.85"/>
+  <!-- Comparison arrows -->
+  <line x1="80" y1="100" x2="120" y2="100" stroke="white" stroke-width="7" stroke-linecap="round"/>
+  <polyline points="110,88 120,100 110,112" stroke="white" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="90,88 80,100 90,112" stroke="white" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="100" cy="100" r="11" fill="white"/>
+  <!-- Top wifi arc -->
+  <path d="M68 50 Q100 32 132 50" stroke="white" stroke-width="7" fill="none" stroke-linecap="round" opacity="0.9"/>
+  <path d="M82 36 Q100 22 118 36" stroke="white" stroke-width="6" fill="none" stroke-linecap="round" opacity="0.65"/>
+</svg>
